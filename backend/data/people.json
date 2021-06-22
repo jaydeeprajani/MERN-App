@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "name": "Jaydeep",
+        "age" : "25",
+        "YOB" : "1995",
+        "email": "jaydeep@gmail.com"
+    },
+    {
+        "id": 1,
+        "name": "Jay",
+        "age" : "23",
+        "YOB" : "1997",
+        "email": "jay@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "Deep",
+        "age" : "20",
+        "YOB" : "2000",
+        "email": "deep@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "Raj",
+        "age" : "30",
+        "YOB" : "1991",
+        "email": "raj@gmail.com"
+    },
+    {
+        "id": 4,
+        "name": "Mayur",
+        "age" : "25",
+        "YOB" : "1995",
+        "email": "mayur@ymail.com"
+    },
+    {
+        "id": 5,
+        "name": "Meet",
+        "age" : "22",
+        "YOB" : "1997",
+        "email": "meet@gmail.com"
+    }
+]
